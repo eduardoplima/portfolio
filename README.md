@@ -5,7 +5,7 @@
 
 As a Data Scientist working at a government agency responsible for auditing public expenditure at TCE/RN I've developed models for assessing risk and NLP tasks (such as Named Entity Recognition) in public contracts. I've also worked in legal and IT auditories, using my data analytics skills to identify possible misuse of public resouces. Having a strong python background, I'm also responsible for many development tasks such as, and not limited to: configuration and administration of Postgres and Elasticsearch databases, building and deploying ETL tasks using Apache Airflow and the development of a corporate web application using Django and React.
 
-This repository showcases some of the projects I've worked on in my areas of interests.
+This repository showcases some of my personal projects.
 
 **Background in:** Python, Machine Learning, React, Django, Elasticsearch.
 
